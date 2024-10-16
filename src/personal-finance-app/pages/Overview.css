@@ -1,0 +1,11 @@
+.overview-content {
+  display: flex;
+}
+.overview-heading {
+  margin-bottom: 50px;
+}
+.overview-valuation {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}

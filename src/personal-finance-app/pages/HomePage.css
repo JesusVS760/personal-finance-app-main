@@ -1,0 +1,8 @@
+.homepage-container {
+  display: flex;
+  align-items: flex-start; /* Align items to the start */
+  flex-direction: row;
+}
+.homepage-overview {
+  padding: 25px 50px;
+}

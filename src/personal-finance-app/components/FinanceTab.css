@@ -1,0 +1,45 @@
+.finance-tab-container {
+  background: black;
+  max-width: 100%;
+  width: 350px;
+  height: 100vh;
+  border-radius: 0px 15px 15px 0px;
+  color: white;
+}
+.finance-tab-heading {
+  padding: 15px;
+  color: white;
+  margin-bottom: 40px;
+}
+.finance-buttons {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+.finance-buttons button {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 15px;
+  cursor: pointer;
+  padding: 20px 25px;
+  width: 95%;
+  text-align: start;
+  margin-bottom: 10px;
+  border-radius: 0px 15px 15px 0px;
+}
+.finance-minimize-menu {
+  padding: 15px;
+  /* margin-top: 100%; */
+}
+.finance-minimize-menu button {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  color: white;
+  border: none;
+  outline: none;
+  gap: 15px;
+  cursor: pointer;
+}
